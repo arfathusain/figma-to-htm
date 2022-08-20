@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Merriweather:ital,wght@1,300&family=Open+Sans:wght@300;500;600;700;800&family=Oswald:wght@400;500&family=Poppins:wght@700&family=Sniglet&display=swap');
+
+
+* {
+      margin: 0px;
+}
+
+#benner {
+      background-image: url(image/background.png);
+      background-repeat: no-repeat;
+      height: 650PX;
+      background-size: cover;
+}
+
+.nav-link {
+
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 24px;
+      color: #000000;
+      margin-right: 30px;
+}
+
+.btn {
+
+      width: 104px;
+      height: 43px;
+
+      top: 25px;
+      color: aliceblue;
+      background: #21B573;
+      border-radius: 33px;
+}
+
+.btn-2 {
+      width: 153px;
+      height: 43px;
+      left: 205px;
+      top: 470px;
+
+      background: #21B573;
+      border: 1px solid #000000;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 33px;
+      border: none;
+}
+
+.img {
+      padding-top: 100px;
+}
+
+.para-1 {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #FD511A;
+}
+
+.head-1 {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 70px;
+      color: #000000;
+      padding-right: 60px;
+}
+
+.para-2 {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 36px;
+      color: #6C6B6B;
+      padding-right: 75px;
+
+}
+
+.img-2 {
+      width: 66px;
+      height: 85px;
+      left: 231px;
+      top: 672px;
+      margin-top: 40px;
+
+}
+
+.back-1 {
+      background-color: #e3f8ec;
+      border-radius: 10px;
+}
+
+.img-3 {
+      width: 137px;
+      height: 35px;
+      left: 158px;
+      top: 1461px;
+
+      background: #21B573;
+      border-radius: 33px;
+      border: none;
+}
+.ro-1{
+      border-radius: 10px;
+}
+.para-4{
+      font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+padding-right: 80px;
+
+
+color: #000000;
+}
+footer{
+      background-color: #282531;
+}
